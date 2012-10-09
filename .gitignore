@@ -57,3 +57,6 @@ bin/mbus-tcp-request-data-multi-reply
 bin/mbus-tcp-scan
 bin/mbus-tcp-scan-secondary
 bin/mbus-tcp-select-secondary
+test/mbus_parse
+test/mbus_parse_hex
+test/mbus_unit_test1
