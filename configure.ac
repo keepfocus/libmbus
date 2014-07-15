@@ -21,6 +21,8 @@ dnl ----------------------
 dnl 
 AC_PROG_CC
 
+AM_PROG_AR
+
 AC_CONFIG_HEADERS([config.h])
 AC_CONFIG_FILES([Makefile mbus/Makefile test/Makefile bin/Makefile libmbus.pc])
 AC_OUTPUT
