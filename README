@@ -10,6 +10,6 @@ For more information see http://www.rscada.se/libmbus
 To get this running on Arch/Manjaro Linux follow this procedure:
 1) clone repo
 2) sh build.sh
-3) make install
+3) sudo make install
 4) create a file at /etc/ld.so.conf.d/usr-local.conf and write '/usr/local/lib' as the only content
 5) sudo ldconfig
